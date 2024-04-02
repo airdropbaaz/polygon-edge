@@ -1,5 +1,4 @@
 package archive
-
 import (
 	"context"
 	"errors"
